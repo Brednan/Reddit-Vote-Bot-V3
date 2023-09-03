@@ -1,0 +1,8 @@
+accounts.txt
+auth_token.txt
+fernet_key.txt
+env
+.idea
+__pycache__
+proxy_server_ip
+test.py
